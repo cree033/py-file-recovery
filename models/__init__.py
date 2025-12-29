@@ -1,4 +1,4 @@
-"""Modelos y configuraciones del sistema de recuperación"""
+"""Models and configurations of the recovery system"""
 
 from .config import Config, FileSignatures, SystemFiles
 
