@@ -1,4 +1,4 @@
-"""Servicios del sistema de recuperación"""
+"""Recovery system services"""
 
 from .disk_service import DiskService
 from .detection_service import DetectionService
