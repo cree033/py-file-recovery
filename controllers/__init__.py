@@ -1,4 +1,4 @@
-"""Controladores del sistema"""
+"""System Controllers"""
 
 from .recovery_controller import RecoveryController
 
