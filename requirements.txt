@@ -1,0 +1,15 @@
+# File Recovery System - Dependencies
+# Optional but recommended for better performance
+
+# Memory and system information
+psutil>=5.9.0
+
+# Image processing for application icon
+Pillow>=9.0.0
+
+# Note: tkinter is included with Python on most systems
+# If not available, install python-tk package:
+# - Windows: Usually included
+# - Linux: sudo apt-get install python3-tk
+# - macOS: Usually included
+
